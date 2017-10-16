@@ -1,4 +1,17 @@
 /* Styles go here */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Tahoma;
+  color:#4350A9;
+}
+
+
+
+/*
 * {
     box-sizing: border-box;
   }
@@ -12,3 +25,4 @@
     background-color: lightgreen;
     padding: 10px;
   }
+  */
