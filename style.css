@@ -1,0 +1,14 @@
+/* Styles go here */
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Tahoma;
+    color:white;
+  }
+  
+  header {
+    background-color: lightgreen;
+    padding: 10px;
+  }
