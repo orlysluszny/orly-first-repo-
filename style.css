@@ -9,20 +9,8 @@ body {
   color:#4350A9;
 }
 
+header {
+  background-color: lightgreen;
+  padding: 10px;
+}
 
-
-/*
-* {
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: Tahoma;
-    color:white;
-  }
-  
-  header {
-    background-color: lightgreen;
-    padding: 10px;
-  }
-  */
