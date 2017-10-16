@@ -14,3 +14,8 @@ header {
   padding: 10px;
 }
 
+.student-contributor {
+  color:green;
+  background-color: yellow;
+  font-size:48px;
+}
